@@ -16,7 +16,7 @@ const Header = () => {
     <div>
       <div className="row py-2">
         <div className="col-sm-10 col-10 text-center">
-          <h3>Simple Notes App</h3>
+          <h3>PolicyStreet Assessment</h3>
         </div>
         <div className="col-sm-2 col-12 container-fluid">
           <button type="button" className="btn btn-primary btn-lg float-right" onClick={openModal}>
